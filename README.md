@@ -1,6 +1,6 @@
 STEPS TO INSTALL APACHE KAFKA ON WINDOWS
 
-1. got to https://kafka.apache.org/downloads
+1. go to https://kafka.apache.org/downloads
 
 2. find link for download
 
